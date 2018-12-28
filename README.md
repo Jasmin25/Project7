@@ -5,7 +5,7 @@ by Jasmin Shah, for the purpose of completing seventh lesson of:
 
 # About This project
 ----
-This project takes a baseline installation of a Linux distribution on a virtual machine and prepares it to host the [item catalog](https://github.com/Jasmin25/Project7) web application.
+This project takes a baseline installation of a Linux distribution on a virtual machine and prepares it to host the [item catalog](https://github.com/Jasmin25/Project5) web application.
 
 # Server information
 ----
